@@ -178,9 +178,9 @@ return 0;
 
 ![Screenshot 2024-10-22 052135](https://github.com/user-attachments/assets/18e9d932-17ea-44d8-b884-e632ed0f02a0)
 
-Key text: Monarchy
-Plain text: instruments
-Cipher text: gatlmzclrqtx
+# Key text: Monarchy
+# Plain text: instruments
+# Cipher text: gatlmzclrqtx
 
 
 
