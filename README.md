@@ -1,5 +1,5 @@
-# Develop By : NAVEEN KUMAR T
-# Req No : 212223220067
+# DEVELOP BY : NAVEEN KUMAR T
+# REQ NO: 212223220067
 
 # Cryptography---19CS412-classicaltechqniques
 # Vigenere Cipher
